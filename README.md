@@ -1,12 +1,10 @@
 # Feed-Reader-Testing
-
-===============================
+=====
 
 # Project Overview
 
 This is Udacity Front-End Developer Nanodegree project. In this project a web-based application is given that that reads RSS feeds. [Project Feed Reader Testing - Starter Code](https://github.com/udacity/frontend-nanodegree-feedreader). The test suit is written using [Jasmine](http://jasmine.github.io/).
-
-===============================
+=====
 
 # How to run the Project
 
@@ -22,16 +20,14 @@ This is Udacity Front-End Developer Nanodegree project. In this project a web-ba
   $ git clone https://github.com/Margo02/Feed-Reader-Testing.git
   ```
 Than, open the `index.html` and check the test results.
-
-===============================
+====
 
 # Dependencies
 
 - Jasmine
 - jQuery
 - HTML5/CSS3
-
-===============================
+====
 
 # Step taken to complete test
 
